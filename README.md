@@ -43,15 +43,12 @@ uvicorn app.main:app --reload    # API docs at http://127.0.0.1:8000/docs
 Commands and examples.
 
 ## Project structure
-backend/
-app/
-api/ routes
-core/ configuration
-tests/
-docs/
-architecture.md
-build-log.md
 
+- `backend/app/api/` - API routes
+- `backend/app/core/` - configuration
+- `backend/tests/` - tests
+- `docs/architecture.md` - architecture notes
+- `docs/build-log.md` - dev log
 
 ## Limitations
 
