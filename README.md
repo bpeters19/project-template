@@ -1,6 +1,6 @@
 ﻿# PROJECT_NAME
 
-![CI](https://github.com/bpeters19/PROJECT_NAME/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/bpeters19/project-template/actions/workflows/ci.yml/badge.svg)
 
 One paragraph: what this is, who it is for, and what makes it technically interesting.
 
